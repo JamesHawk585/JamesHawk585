@@ -31,8 +31,8 @@ Here are some ideas to get you started:
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxpODQ3MmtzN2l0MW1sYnhhNGQ1amJhMG55MW45YmplbmFxdDNubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif"/>
 </div>
 
-# About Me 
-👨‍💻  I am a full stack developer from Kansas City. 
+# 👨‍💻 About Me 
+I am a full stack developer from Kansas City. 
 
 - 🔭 I am working as a freelance software engineer and building/maintaining both front-end and back-end for web applications.
 - 🌱 Exploring technical content writing
@@ -64,4 +64,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" slt="jest" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" slt="markdown" height="40"/>
 </div>
+
+# 🔥 My Stats:
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JamesHawk585&theme=dark" alt="GitHub Streak" /></a>
+</div>
+
+
 
