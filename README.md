@@ -27,3 +27,10 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+
+👨‍💻  I am a full stack developer from Kansas City. 
+
+- 🔭 I am working as a freelance software engineer and building/maintaining noth front-end and back-end for web applications.
+- 🌱 Exploring technical content writing
+- ⚡ In my free time, I love solving Leetcode problems and playing the guitar
+- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-James-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/james-hawk-fullstackdeveloper/)
