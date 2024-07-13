@@ -16,8 +16,14 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzI0MTVoOG11ZHVqeXpscGVhYjN1YmZvMDJ2ZGI0YWM0Z3JubnRlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif" 
-    width="100""/> 
+    width="400""/> 
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+<div align="center">
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
