@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 I am a full stack developer from Kansas City. 
 
 - 🔭 I am working as a freelance software engineer and building/maintaining both front-end and back-end for web applications.
-- 🌱 Exploring technical content writing
-- ⚡ In my free time, I love solving Leetcode problems and playing the guitar
+- 🌱 Exploring technical content writing.
+- ⚡ In my free time, I love solving Leetcode problems and playing the guitar.
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-James-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/james-hawk-fullstackdeveloper/)
 
 # 🛠️Language and Tools:
